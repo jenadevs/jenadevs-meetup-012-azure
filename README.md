@@ -1,1 +1,1 @@
-# jenadevs-meetup-012-azure
+# jenadevs-meetup-012-cognitive-computing
